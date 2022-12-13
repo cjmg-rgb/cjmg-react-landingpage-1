@@ -60,8 +60,8 @@ function App() {
             </div>
             <img
               className="img-fluid w-50 d-none d-md-block"
-              src="/images/showcase.svg"
-              alt="showcase"
+              src="./images/showcase.svg"
+              alt="test"
             />
           </div>
         </div>
