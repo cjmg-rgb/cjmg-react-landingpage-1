@@ -5,11 +5,11 @@ import "./style.css";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" id="home">
       {/* Navbar */}
       <nav className="navbar fixed-top navbar-expand-lg bg-dark navbar-dark">
         <div className="container">
-          <a href="/" className="navbar-brand">
+          <a href="#home" className="navbar-brand">
             CJMG
           </a>
 
@@ -412,7 +412,7 @@ function App() {
       <footer className="p-5 bg-dark text-light text-center position-relative">
         <div className="container">
           <p className="lead">Copyright &copy; 2022 CJMG landing page</p>
-          <a href="/#" className="position-absolute bottom-0 end-0 p-5">
+          <a href="#home" className="position-absolute bottom-0 end-0 p-5">
             <i className="bi bi-arrow-up-circle h1"></i>
           </a>
         </div>
