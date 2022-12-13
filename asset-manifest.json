@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cjmg-react-landingpage-1/static/css/main.d30b2a61.css",
+    "main.js": "/cjmg-react-landingpage-1/static/js/main.db982332.js",
+    "index.html": "/cjmg-react-landingpage-1/index.html",
+    "main.d30b2a61.css.map": "/cjmg-react-landingpage-1/static/css/main.d30b2a61.css.map",
+    "main.db982332.js.map": "/cjmg-react-landingpage-1/static/js/main.db982332.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d30b2a61.css",
+    "static/js/main.db982332.js"
+  ]
+}
