@@ -61,7 +61,7 @@ function App() {
             <img
               className="img-fluid w-50 d-none d-md-block"
               src="./images/showcase.svg"
-              alt="test"
+              alt="showcase"
             />
           </div>
         </div>
@@ -148,8 +148,8 @@ function App() {
             <div className="col-md">
               <img
                 className="img-fluid"
-                src="/images/fundamentals.svg"
-                alt=""
+                src="./images/fundamentals.svg"
+                alt="fundamentals"
               />
             </div>
             <div className="col-md py-5 p-md-5">
@@ -191,7 +191,7 @@ function App() {
               </a>
             </div>
             <div className="col-md">
-              <img className="img-fluid" src="/images/react.svg" alt="" />
+              <img className="img-fluid" src="./images/react.svg" alt="react" />
             </div>
           </div>
         </div>
