@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cjmg-react-landingpage-1/static/css/main.d30b2a61.css",
-    "main.js": "/cjmg-react-landingpage-1/static/js/main.0d169be8.js",
+    "main.js": "/cjmg-react-landingpage-1/static/js/main.1cc8b8ee.js",
     "index.html": "/cjmg-react-landingpage-1/index.html",
     "main.d30b2a61.css.map": "/cjmg-react-landingpage-1/static/css/main.d30b2a61.css.map",
-    "main.0d169be8.js.map": "/cjmg-react-landingpage-1/static/js/main.0d169be8.js.map"
+    "main.1cc8b8ee.js.map": "/cjmg-react-landingpage-1/static/js/main.1cc8b8ee.js.map"
   },
   "entrypoints": [
     "static/css/main.d30b2a61.css",
-    "static/js/main.0d169be8.js"
+    "static/js/main.1cc8b8ee.js"
   ]
 }
